@@ -4,6 +4,7 @@ I'm into Hacking, PenTesting, Electronics and other stuff;
 Currently coding in:
   - C;
   - 16 bit Assembly;
+  - Java;
 
 Here to be helped and to help others get things done
 Only peace
